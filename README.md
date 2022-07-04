@@ -2,7 +2,7 @@
 In this assignment, you are expected to build an API backend with Spring Boot framework for an imaginary mobile application. Please read the constraints and tasks carefully and follow submission guideline at the bottom of the page.
 
 ## Scenario
-BayzTracker is a cryptocurrency tracker app which allows its users to create alerts to be notified when a price of a coin reaches the price user determines.
+CryptoTracker is a cryptocurrency tracker app which allows its users to create alerts to be notified when a price of a coin reaches the price user determines.
 
 User can create multiple alerts and can track the alert status anytime (triggered or waiting).
 
@@ -20,7 +20,7 @@ The admin user also manages the currencies that will be listed on the app.
 - GIT for version control
 
 ## General Application Constraints
-- Users are using BayzTracker mobile app, assume that the API is only consumed by mobile
+- Users are using CryptoTracker mobile app, assume that the API is only consumed by mobile
 - Data should only be accepted from the registered users with their ownership rights.
 - There are two types of users: Admin and User.
     - Both user types can create alerts.
