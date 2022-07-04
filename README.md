@@ -49,25 +49,9 @@ The admin user also manages the currencies that will be listed on the app.
     - ScheduledTask should run every 30 seconds. 
     - Note that, we will change the current price information manually on database while testing.
 
-## Bonus Tasks
+## Tasks
 1. Test coverage of 60%. Please do not try to increase more.
 2. Add Docker support for your application. It should be buildable with Docker and can be run with `docker run`
 3. If you are using Docker, implement a `docker-compose` stack that contains the database and your application.
 4. Add your design decisions to `DOC.md` file.
 5. Create a Postman collection in order to test the endpoints. Export and add it to this repository.
-
-## Evaluation Criterias
-- Code quality
-- Applying Best Practices and OOP principles
-- Correctness of the business logic and their compliance with the requirements
-- Unit Tests
-- Git commit structure
-
-# Submission
-Please open a Pull/Merge request to this repository with everything you have prepared.
-
-- Make sure that project is building correctly.
-- Make sure that all tests are passing.
-- Prepare necessary instructions to run your application in `DOC.md` file.
-- If you have questions, please send us an email, we'll get back to you as soon as possible.
-- You have 7 days to complete this task. 
