@@ -1,5 +1,5 @@
 # Spring Boot Application
-For this application, you are expected to build an API backend with Spring Boot framework for an imaginary mobile application. Please read the constraints and tasks carefully and follow submission guideline at the bottom of the page.
+AN API backend with Spring Boot framework for an imaginary mobile application.
 
 ## Scenario
 CryptoTracker is a cryptocurrency tracker app which allows its users to create alerts to be notified when a price of a coin reaches the price user determines.
